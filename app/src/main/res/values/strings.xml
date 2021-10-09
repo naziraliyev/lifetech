@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">LifeTech</string>
+    <string name="navigation_drawer_open"> Open navigation drawer</string>
+    <string name="navigation_drawer_close"> Close navigation drawer</string>
+    <string-array name="member">
+        <item>Tanlash</item>
+        <item>Erkak</item>
+        <item>Ayol </item>
+    </string-array>
+    <style name="mySpinnerItemStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:textColor">@color/white </item>
+    </style>
+    <string name="theme_course">
+        In the first millennium BC, Iranian nomads established irrigation systems along the rivers of Central Asia and built towns at Bukhara and Samarqand. These places became extremely wealthy points of transit on what became known as the Silk Road between China and Europe. In the seventh century AD, the Soghdian Iranians, who profited most visibly from this trade, saw their province of Transoxiana (Mawarannahr) overwhelmed by Arabs, who spread Islam throughout the region. Under the Arab Abbasid Caliphate and (starting from the mid-9th century), the Persian Samanid Empire, the eighth to tenth centuries were a golden age of learning and culture in Transoxiana.
+
+The first people known to have occupied Central Asia were Iranian nomads who arrived from the northern grasslands of what is now Kazakhstan sometime in the first millennium BC. These nomads, who spoke Iranian dialects, settled in Central Asia and began to build an extensive irrigation system along the rivers of the region. At this time, cities such as Bukhara (Bukhara) and Samarqand (Samarkand) began to appear as centers of government and culture. By the fifth century BC, the Bactrian, Soghdian, and Tokharian states dominated the region. As China began to develop its silk trade with the West, Iranian cities took advantage of this commerce by becoming centers of trade. Using an extensive network of cities and settlements in the province of Transoxiana (Mawarannahr was a name given the region after the Arab conquest) in Uzbekistan and farther east in what is today China\'s Xinjiang Uygur Autonomous Region, the Soghdian intermediaries became the wealthiest of these Iranian merchants. Because of this trade on what became known as the Silk Route, Bukhara and Samarqand eventually became extremely wealthy cities, and at times Transoxiana was one of the most influential and powerful Persian provinces of antiquity.[2][full citation needed]
+
+Alexander the Great conquered the region in 328 BC, bringing it briefly under the control of his Macedonian Empire.[2]
+
+The wealth of Transoxiana was a constant magnet for invasions from the northern steppes and from China. Numerous intraregional wars were fought between Soghdian states and the other states in Transoxiana, and the Persians and the Chinese were in perpetual conflict over the region. The Chinese in particular sought the Heavenly Horses from the region, going so far as to wage a siege war against Dayuan, an urbanized civilization in the Fergana Valley in 104 BC to obtain the horses.
+
+In the same centuries, however, the region also was an important center of intellectual life and religion. Until the first centuries after Christ, the dominant religion in the region was Zoroastrianism, but Buddhism, Manichaeism, and Christianity also attracted large numbers of followers.[2]
+    </string>
+    <string name="life_tech">Life  Techda  Ta\'lim  ol    Kelajak  Sari  Yo\'l  ol</string>
+</resources>
